@@ -1,0 +1,23 @@
+html,
+body {
+  height: 100% !important;
+}
+
+body {
+  display: flex !important;
+  align-items: center !important;
+  padding-top: 40px !important;
+  padding-bottom: 40px !important;
+  background-color: white !important;
+}
+.auth{
+	border-right: 3px solid black !important;
+	padding: 2px !important;
+	height: 50px !important;
+  }
+  .form-signin {
+	width: 100%;
+	max-width: 700px !important;
+	padding: 15px;
+	margin: auto;
+  }
